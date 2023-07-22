@@ -31,7 +31,17 @@ for testing API routes
 1. Move that file to the correct folder (the one you created on the 2nd part: ~/.local/share/applications
 1. search for Postman it should show up right away
 
+
 based on : https://community.postman.com/t/installing-the-new-native-app-in-chromeos/5115/8
 
 # What CPU Architecture Do You Have?
 ```dpkg --print-architecture```
+
+
+# How to set up a development environment on a macbook
+https://www.robinwieruch.de/mac-setup-web-development/
+
+
+
+
+
