@@ -41,8 +41,4 @@ based on : https://community.postman.com/t/installing-the-new-native-app-in-chro
 # How to set up a development environment on a macbook
 https://www.robinwieruch.de/mac-setup-web-development/
 
-# paste without formatting in google docs on safari
-https://superuser.com/a/1681518
-
-
 
